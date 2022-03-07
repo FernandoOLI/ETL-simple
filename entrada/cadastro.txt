@@ -1,0 +1,7 @@
+codigo_produto;descricao_produto
+1;Coca Cola 2LT
+2;Cerveja Coruja 600ML
+2;Cerveja Coruja
+1002;Pão de Queijo
+1010;produto que não existe
+1010;produto que não existe

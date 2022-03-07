@@ -1,0 +1,5 @@
+codigo_produto;quantidade_em_estoque
+1;10
+2;10
+2;20
+3;30

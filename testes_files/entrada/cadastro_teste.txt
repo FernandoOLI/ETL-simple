@@ -1,0 +1,6 @@
+codigo_produto;descricao_produto
+1;produto teste 1
+2;produto teste 2
+2;produto teste 2
+
+3;produto teste 3

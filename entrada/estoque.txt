@@ -1,0 +1,6 @@
+codigo_produto;quantidade_em_estoque
+1;8000
+2;9760000
+2;9000000000
+503;14330000
+504;1433000

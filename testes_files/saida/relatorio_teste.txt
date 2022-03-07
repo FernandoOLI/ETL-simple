@@ -1,0 +1,9 @@
+codigo_produto;quantidade_vendida;quantidade_em_estoque;descricao_produto;dias_de_estoque_disponivel
+1;44898000.0;8000.0;Coca Cola 2LT;0.00017818165619849435
+2;538776000.0;9000000000.0;Cerveja Coruja 600ML;16.704530268608845
+903;24693900.0;0.0;Não Cadastrado;0.0
+1000;14675232.0;0.0;Não Cadastrado;0.0
+1001;0.0;0.0;Não Cadastrado;
+1002;1334112.0;0.0;Pão de Queijo;0.0
+503;0.0;14330000.0;Não Cadastrado;inf
+504;0.0;1433000.0;Não Cadastrado;inf
